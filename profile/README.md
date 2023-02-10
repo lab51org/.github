@@ -2,7 +2,7 @@
 
 🙋‍ born with the idea of contributing to open source projects.
 
-Perhaps farmers with the code but quite effective in implementing solutions, always keeping in mind that the result is what we want to achieve... 
+Perhaps farmers of the code but quite effective in implementing solutions, always keeping in mind that the result is what we want to achieve... 
 
 <!--
 
